@@ -1,0 +1,13 @@
+{
+  "cms.js": "render-page.js",
+  "cms.js.map": "render-page.js.map",
+  "main.css": "styles.css",
+  "main.js": "render-page.js",
+  "main.js.map": "render-page.js.map",
+  "static/fontawesome-webfont.eot": "static/fontawesome-webfont.674f50d2.eot",
+  "static/fontawesome-webfont.eot?v=4.7.0": "static/fontawesome-webfont.674f50d2.eot",
+  "static/fontawesome-webfont.svg?v=4.7.0": "static/fontawesome-webfont.912ec66d.svg",
+  "static/fontawesome-webfont.ttf?v=4.7.0": "static/fontawesome-webfont.b06871f2.ttf",
+  "static/fontawesome-webfont.woff2?v=4.7.0": "static/fontawesome-webfont.af7ae505.woff2",
+  "static/fontawesome-webfont.woff?v=4.7.0": "static/fontawesome-webfont.fee66e71.woff"
+}

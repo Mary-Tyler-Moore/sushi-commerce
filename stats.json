@@ -1,0 +1,106 @@
+{
+  "assetsByChunkName": {
+    "path---posts-is-raw-sushi-sashimi-bad-for-you": [
+      "path---posts-is-raw-sushi-sashimi-bad-for-you-19e64d89419b7590640d.js",
+      "path---posts-is-raw-sushi-sashimi-bad-for-you-19e64d89419b7590640d.js.map"
+    ],
+    "component---src-pages-products-index-js": [
+      "component---src-pages-products-index-js-c58e3061eeb3ae6f2aa6.js",
+      "component---src-pages-products-index-js-c58e3061eeb3ae6f2aa6.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-756d36d09316db7e4fba.js",
+      "component---src-pages-index-js-756d36d09316db7e4fba.js.map"
+    ],
+    "path---products": [
+      "path---products-2fcd16aba0219085eecf.js",
+      "path---products-2fcd16aba0219085eecf.js.map"
+    ],
+    "path---": [
+      "path----b1052a3426aab4505187.js",
+      "path----b1052a3426aab4505187.js.map"
+    ],
+    "path---products-sampler": [
+      "path---products-sampler-a3c02939831a17f8638e.js",
+      "path---products-sampler-a3c02939831a17f8638e.js.map"
+    ],
+    "component---src-pages-contact-js": [
+      "component---src-pages-contact-js-999ba2f14553841ba644.js",
+      "component---src-pages-contact-js-999ba2f14553841ba644.js.map"
+    ],
+    "cms": [
+      "cms-f9d6bf9c5fb80293d0dc.js",
+      "cms.css",
+      "cms-f9d6bf9c5fb80293d0dc.js.map",
+      "cms.css.map"
+    ],
+    "component---src-templates-page-js": [
+      "component---src-templates-page-js-9618067d6db7b871d0f0.js",
+      "component---src-templates-page-js-9618067d6db7b871d0f0.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-6271a595e6e88f8f9b9e.js",
+      "component---src-layouts-index-js-6271a595e6e88f8f9b9e.js.map"
+    ],
+    "path---contact-form-success": [
+      "path---contact-form-success-06315415e4d3eff9973e.js",
+      "path---contact-form-success-06315415e4d3eff9973e.js.map"
+    ],
+    "component---src-templates-product-js": [
+      "component---src-templates-product-js-46c2ee2e27aaca50412a.js",
+      "component---src-templates-product-js-46c2ee2e27aaca50412a.js.map"
+    ],
+    "path---posts": [
+      "path---posts-0c3100d10b7791a1d4a5.js",
+      "path---posts-0c3100d10b7791a1d4a5.js.map"
+    ],
+    "path---index": [
+      "path---index-5bbcb50384770c077f30.js",
+      "path---index-5bbcb50384770c077f30.js.map"
+    ],
+    "commons": [
+      "commons-e51d7962eac3f621c4bc.js",
+      "commons-e51d7962eac3f621c4bc.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-7ad31848f10581aba129.js",
+      "path---404-html-7ad31848f10581aba129.js.map"
+    ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---products-nigiri": [
+      "path---products-nigiri-780b7534075c12ea5d38.js",
+      "path---products-nigiri-780b7534075c12ea5d38.js.map"
+    ],
+    "component---src-templates-post-js": [
+      "component---src-templates-post-js-ffe76976266f60c13dce.js",
+      "component---src-templates-post-js-ffe76976266f60c13dce.js.map"
+    ],
+    "path---posts-how-to-make-sashimi": [
+      "path---posts-how-to-make-sashimi-d176ce701db8762e2cef.js",
+      "path---posts-how-to-make-sashimi-d176ce701db8762e2cef.js.map"
+    ],
+    "path---posts-10-reasons-sushi-is-good-for-a-healthy-lifestyle": [
+      "path---posts-10-reasons-sushi-is-good-for-a-healthy-lifestyle-a85060f2255077b44a70.js",
+      "path---posts-10-reasons-sushi-is-good-for-a-healthy-lifestyle-a85060f2255077b44a70.js.map"
+    ],
+    "app": [
+      "app-ddd5a4d234801c678da7.js",
+      "app-ddd5a4d234801c678da7.js.map"
+    ],
+    "path---products-sashimi": [
+      "path---products-sashimi-375d53808b13aa7eb6a2.js",
+      "path---products-sashimi-375d53808b13aa7eb6a2.js.map"
+    ],
+    "path---404": [
+      "path---404-7ad31848f10581aba129.js",
+      "path---404-7ad31848f10581aba129.js.map"
+    ],
+    "component---src-pages-posts-index-js": [
+      "component---src-pages-posts-index-js-750cc22a67d3c4bc6280.js",
+      "component---src-pages-posts-index-js-750cc22a67d3c4bc6280.js.map"
+    ]
+  }
+}

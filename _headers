@@ -1,0 +1,86 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+/static/*
+  Cache-Control: max-age=31536000
+/contact-form-success/
+  Link: </commons-e51d7962eac3f621c4bc.js>; rel=preload; as=script
+  Link: </app-ddd5a4d234801c678da7.js>; rel=preload; as=script
+  Link: </path---contact-form-success-06315415e4d3eff9973e.js>; rel=preload; as=script
+  Link: </component---src-templates-page-js-9618067d6db7b871d0f0.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-6271a595e6e88f8f9b9e.js>; rel=preload; as=script
+/404/
+  Link: </commons-e51d7962eac3f621c4bc.js>; rel=preload; as=script
+  Link: </app-ddd5a4d234801c678da7.js>; rel=preload; as=script
+  Link: </path---404-7ad31848f10581aba129.js>; rel=preload; as=script
+  Link: </component---src-templates-page-js-9618067d6db7b871d0f0.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-6271a595e6e88f8f9b9e.js>; rel=preload; as=script
+/posts/10-reasons-sushi-is-good-for-a-healthy-lifestyle/
+  Link: </commons-e51d7962eac3f621c4bc.js>; rel=preload; as=script
+  Link: </app-ddd5a4d234801c678da7.js>; rel=preload; as=script
+  Link: </path---posts-10-reasons-sushi-is-good-for-a-healthy-lifestyle-a85060f2255077b44a70.js>; rel=preload; as=script
+  Link: </component---src-templates-post-js-ffe76976266f60c13dce.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-6271a595e6e88f8f9b9e.js>; rel=preload; as=script
+/posts/how-to-make-sashimi/
+  Link: </commons-e51d7962eac3f621c4bc.js>; rel=preload; as=script
+  Link: </app-ddd5a4d234801c678da7.js>; rel=preload; as=script
+  Link: </path---posts-how-to-make-sashimi-d176ce701db8762e2cef.js>; rel=preload; as=script
+  Link: </component---src-templates-post-js-ffe76976266f60c13dce.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-6271a595e6e88f8f9b9e.js>; rel=preload; as=script
+/posts/is-raw-sushi-sashimi-bad-for-you/
+  Link: </commons-e51d7962eac3f621c4bc.js>; rel=preload; as=script
+  Link: </app-ddd5a4d234801c678da7.js>; rel=preload; as=script
+  Link: </path---posts-is-raw-sushi-sashimi-bad-for-you-19e64d89419b7590640d.js>; rel=preload; as=script
+  Link: </component---src-templates-post-js-ffe76976266f60c13dce.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-6271a595e6e88f8f9b9e.js>; rel=preload; as=script
+/products/nigiri/
+  Link: </commons-e51d7962eac3f621c4bc.js>; rel=preload; as=script
+  Link: </app-ddd5a4d234801c678da7.js>; rel=preload; as=script
+  Link: </path---products-nigiri-780b7534075c12ea5d38.js>; rel=preload; as=script
+  Link: </component---src-templates-product-js-46c2ee2e27aaca50412a.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-6271a595e6e88f8f9b9e.js>; rel=preload; as=script
+/products/sashimi/
+  Link: </commons-e51d7962eac3f621c4bc.js>; rel=preload; as=script
+  Link: </app-ddd5a4d234801c678da7.js>; rel=preload; as=script
+  Link: </path---products-sashimi-375d53808b13aa7eb6a2.js>; rel=preload; as=script
+  Link: </component---src-templates-product-js-46c2ee2e27aaca50412a.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-6271a595e6e88f8f9b9e.js>; rel=preload; as=script
+/products/sampler/
+  Link: </commons-e51d7962eac3f621c4bc.js>; rel=preload; as=script
+  Link: </app-ddd5a4d234801c678da7.js>; rel=preload; as=script
+  Link: </path---products-sampler-a3c02939831a17f8638e.js>; rel=preload; as=script
+  Link: </component---src-templates-product-js-46c2ee2e27aaca50412a.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-6271a595e6e88f8f9b9e.js>; rel=preload; as=script
+/404.html
+  Link: </commons-e51d7962eac3f621c4bc.js>; rel=preload; as=script
+  Link: </app-ddd5a4d234801c678da7.js>; rel=preload; as=script
+  Link: </path---404-html-7ad31848f10581aba129.js>; rel=preload; as=script
+  Link: </component---src-templates-page-js-9618067d6db7b871d0f0.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-6271a595e6e88f8f9b9e.js>; rel=preload; as=script
+/contact/
+  Link: </commons-e51d7962eac3f621c4bc.js>; rel=preload; as=script
+  Link: </app-ddd5a4d234801c678da7.js>; rel=preload; as=script
+  Link: </path---contact-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </component---src-pages-contact-js-999ba2f14553841ba644.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-6271a595e6e88f8f9b9e.js>; rel=preload; as=script
+/
+  Link: </commons-e51d7962eac3f621c4bc.js>; rel=preload; as=script
+  Link: </app-ddd5a4d234801c678da7.js>; rel=preload; as=script
+  Link: </path---index-5bbcb50384770c077f30.js>; rel=preload; as=script
+  Link: </component---src-pages-index-js-756d36d09316db7e4fba.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-6271a595e6e88f8f9b9e.js>; rel=preload; as=script
+/posts/
+  Link: </commons-e51d7962eac3f621c4bc.js>; rel=preload; as=script
+  Link: </app-ddd5a4d234801c678da7.js>; rel=preload; as=script
+  Link: </path---posts-0c3100d10b7791a1d4a5.js>; rel=preload; as=script
+  Link: </component---src-pages-posts-index-js-750cc22a67d3c4bc6280.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-6271a595e6e88f8f9b9e.js>; rel=preload; as=script
+/products/
+  Link: </commons-e51d7962eac3f621c4bc.js>; rel=preload; as=script
+  Link: </app-ddd5a4d234801c678da7.js>; rel=preload; as=script
+  Link: </path---products-2fcd16aba0219085eecf.js>; rel=preload; as=script
+  Link: </component---src-pages-products-index-js-c58e3061eeb3ae6f2aa6.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-6271a595e6e88f8f9b9e.js>; rel=preload; as=script

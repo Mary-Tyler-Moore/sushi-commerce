@@ -1,0 +1,2 @@
+webpackJsonp([0x681a4811242f],{344:function(t,o){t.exports={data:{markdownRemark:{frontmatter:{title:"Contact form success!",tags:["Success"]},html:'<p>Thank you for your message! We look forward to talking with you shortly. In the meantime, check out our <a href="/products">products</a> and <a href="/posts">blog posts</a>.</p>'}},pathContext:{slug:"/contact-form-success/"}}}});
+//# sourceMappingURL=path---contact-form-success-06315415e4d3eff9973e.js.map
